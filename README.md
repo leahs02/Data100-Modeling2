@@ -27,6 +27,13 @@ More on modeling (e. g. random variables, classification)
 - Linear Separability and Regularization
 - Performance Metrics
 
+## Clustering
+- Machine Learning
+- Supervized Learning
+- Unsupervised Learning
+- K- Means Clustering
+- Minimizing Inertia
+- Hierarchical Agglomerative Clustering
 ## Principle Component Analysis
 - Matrix Transformation
 - Principle Component Analysis
